@@ -1,11 +1,9 @@
 package net.eligibbs.and.entity.client;
 
 import com.mojang.blaze3d.vertex.PoseStack;
-import net.eligibbs.and.AndMod;
 import net.eligibbs.and.entity.custom.PenguinEntity;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.entity.EntityRendererProvider;
-import net.minecraft.resources.ResourceLocation;
 import software.bernie.geckolib.renderer.GeoEntityRenderer;
 
 
